@@ -14,7 +14,7 @@
 
 
 
-<img width="1434" alt="Screen Shot 2022-06-08 at 5 05 11 PM" src="https://user-images.githubusercontent.com/98415796/172717738-d5f1b2bb-78a7-4978-918a-767bab1ed018.png">
+<img width="1237" alt="Screen Shot 2022-06-08 at 5 19 32 PM" src="https://user-images.githubusercontent.com/98415796/172719367-656a0521-ece9-4477-afb7-5b613d36d50d.png">
 
 
 
